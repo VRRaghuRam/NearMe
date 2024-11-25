@@ -221,21 +221,16 @@ wild.html
 
 
 ## OUTPUT
+![alt text](1.1-3.png)
 
-![alt text](1.1.png)
+![alt text](1.2-2.png)
 
-![alt text](1.2.png)
+![alt text](1.3-1.png)
 
-![alt text](1.3.png)
+![alt text](1.4-1.png)
 
-![alt text](1.4.png)
+![alt text](1.5-1.png)
 
-![alt text](1.5.png)
-
-![alt text](1.6.png)
-
-
-
-
+![alt text](1.6-1.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
